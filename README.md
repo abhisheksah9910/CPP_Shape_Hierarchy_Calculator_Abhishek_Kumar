@@ -189,7 +189,7 @@ Shape-Hierarchy-Area-Perimeter-Calculator
 ## Clone Repository
 
 ```bash
-git clone https://github.com/sushantranjan912/Shape-Hierarchy-Area-Perimeter-Calculator.git
+git clone https://github.com/abhisheksah9910/CPP_Shape_Hierarchy_Calculator_Abhishek_Kumar.git
 ```
 
 ---
@@ -274,13 +274,13 @@ This project helped in understanding:
 
 <div align="center">
 
-## Sushant Ranjan
-
-💻 Computer Science Student
-
-🔗 GitHub
-
-https://github.com/sushantranjan912
+## Abhishek Kumar
+ 
+ 💻 Computer Science Student
+ 
+ 🔗 GitHub
+ 
+ https://github.com/abhisheksah9910
 
 ⭐ Thanks for visiting this repository!
 
